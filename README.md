@@ -14,4 +14,3 @@
 ธนโชค วิโรจน์ศศิธร 620610791
 
 
-https://quiz4-cpelab-upup2544.herokuapp.com/
